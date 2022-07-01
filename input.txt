@@ -1,0 +1,1 @@
+Huffman Coding is a lossless Data Compression Algorithm.
